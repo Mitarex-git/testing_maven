@@ -38,7 +38,7 @@
   </build>
   <scm>
 	<connection>scm:git:ssh@github.com:Mitarexia/testing_maven</connection>
-	<url>scm:git:ssh@github.com:Mitarexia/testing_maven</url>
+	<url>scm:ssh:git@github.com:Mitarexia/testing_maven</url>
 	<developerConnection>scm:git:ssh@github.com:Mitarexia/testing_maven</developerConnection>
   </scm>
 </project>
